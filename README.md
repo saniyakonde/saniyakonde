@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello! I'm Saniya Konde
 
-<!--
-**saniyakonde/saniyakonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. IT Graduate from KLE Society’s Science and Commerce College  
+💻 Aspiring Full Stack Developer | Java | HTML | CSS | MySQL | JSP/Servlet  
+🔐 Cybersecurity Enthusiast | NASSCOM Certified  
+🌱 Currently learning React & GitHub  
+📫 Reach me: saniyakonde@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/saniya-konde/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 💡 **Food System Web App**  
+  CRUD-based food ordering system using Java, Servlet, HTML, CSS, SQL
+
+- 💻 **ATM Simulator**  
+  Java + SQL project simulating ATM operations (Withdraw, Balance Check, etc.)
+
+- 🔍 **Crime Management System**  
+  JSP + SQL web application for submitting and managing crime reports
+
+---
+
+## 📊 GitHub Stats
+
+![Saniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniyakonde&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniyakonde&layout=compact)
+
+---
+
+Thanks for visiting my profile! 😊
+
